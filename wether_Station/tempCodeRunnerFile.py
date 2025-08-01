@@ -1,0 +1,1 @@
+root.maxsize(width=w,height=h)
