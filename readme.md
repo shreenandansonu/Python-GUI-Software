@@ -3,11 +3,6 @@
 ![License: MIT](https://img.shields.io/badge/LICENSE%20SOFTWARE-MIT-ef476f?style=flat-square)
 
 
-# **DOWNLOAD** these softwares
-
-| POMODORO | WEATHER STATION | MASTER MIND |
-|:---------:|:---------------:|:-----------:|
-| [Download](POMODORO.ZIP) | [Download](WEATHER_STATION.zip) | [Download](MASTER_MIND.ZIP) |
 
 
 # **POMODORO** | keep a track of your time, every second
